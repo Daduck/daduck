@@ -1,4 +1,5 @@
 🔧 Johnny J. Andersen - VP of Engineering · CTO · Internet Architect
+
 I'm a seasoned technical leader and self‑styled "Internet Wizard" based in Copenhagen, Denmark. With over two decades of experience building large‑scale, data‑driven platforms, I blend rigorous engineering craftsmanship with agility and strategic insight. My passion spans scalable databases, cloud infrastructure, machine learning, autonomous vehicles, green technology, and of course, stocks and AI.
 
 🚀 What I Do
